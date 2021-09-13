@@ -19,7 +19,7 @@
   
   If you want to see the admin panel then type http://localhost/admin/ and press enter, you will see the login option in front of you. Below is the username and password for login. If you correctly click on the login button with username and password, it will take you to the dashboard. <br>
   
-  ### Login E-mail :
+  ### Login E-mail and Password
 
 
 
