@@ -16,6 +16,8 @@
   **step 3 : Place the project files in the htdocs folder inside the xampp / xampp server. <br>
   **step 4 : Upload the SQL file to the database. <br>
   **step 5 ; Run the project localhost/ in this url. <br>
+  
+  If you want to see the admin panel then type http: // localhost / admin and press enter, you will see the login option in front of you. Below is the username and password for login. If you correctly click on the login button with username and password, it will take you to the dashboard.
 
 
 
