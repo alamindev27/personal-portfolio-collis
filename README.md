@@ -11,7 +11,11 @@
 
 ## Documention
 <p>
-  **step : 1
+  **step 1 : Download the project code.
+  **step 2 : Download the xampp / xampp server, Turn on the xampp / xampp server and create a database with PHP MyAdmin.
+  **step 3 : Place the project files in the htdocs folder inside the xampp / xampp server.
+  **step 4 : Upload the SQL file to the database.
+  **step 5 ; Run the project [localhost](https://localhost)
 
 
 
